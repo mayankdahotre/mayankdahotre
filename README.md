@@ -10,16 +10,12 @@ In 2024, I’m honing my expertise in Control Systems, Probabilistic ML, and Com
 
 ✨ Side Quests
 
-Deep Learning Enthusiast – completed Andrew Ng’s Deep Learning Specialization and currently exploring RL for robotic control
-
-ROS & Simulation Geek – built custom URDF/XACRO files, simulated manipulators, and developed trajectory planners
-
-Tech + Leadership – helped bring Amalthea back offline, worked on MetaIITGN, and coordinated outreach initiatives
+- Deep Learning Enthusiast – completed Andrew Ng’s Deep Learning Specialization and currently exploring RL for robotic control
+- ROS & Simulation Geek – built custom URDF/XACRO files, simulated manipulators, and developed trajectory planners
+- Tech + Leadership – helped bring Amalthea back offline, worked on MetaIITGN, and coordinated outreach initiatives
 
 📍 Outside Work
 
-Born and raised in India, I find joy in reading about control theory, experimenting with numerical methods, and hitting the gym to build an aesthetic physique! Also, I enjoy a good plate of chicken biryani (because priorities, right?).
+Born and raised in India, I find joy in reading about control theory, experimenting with numerical methods, and hitting the gym to build an aesthetic physique!
 
-🔗 Let's Connect!
 
-🌟 LinkedIn: [Your LinkedIn URL]💻 GitHub: [Your GitHub URL]📧 Email: [Your Email]
