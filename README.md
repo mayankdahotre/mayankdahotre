@@ -1,4 +1,4 @@
-##Hi, I'm Mayank! 👋
+## Hi, I'm Mayank! 👋
 
 I’m deeply passionate about Robotics, Computational Mechanics, and AI for Control Systems. My research interests lie at the intersection of robotic path planning, trajectory optimization, reinforcement learning for control, and numerical simulations.
 
