@@ -1,4 +1,4 @@
-Hi, I'm Mayank! 👋
+##Hi, I'm Mayank! 👋
 
 I’m deeply passionate about Robotics, Computational Mechanics, and AI for Control Systems. My research interests lie at the intersection of robotic path planning, trajectory optimization, reinforcement learning for control, and numerical simulations.
 
@@ -10,6 +10,6 @@ In 2024, I’m honing my expertise in Control Systems, Machine Learning, Computa
 
 Beyond my core research interests, I actively pursue side quests that keep me engaged and constantly learning. I’m diving into competitive programming, currently a Newbie on Codeforces with a 20-day streak and counting, sharpening my problem-solving skills. My enthusiasm for Deep Learning led me to complete Andrew Ng’s Deep Learning Specialization, and I’m now exploring Reinforcement Learning for robotic control. As a ROS & simulation geek, I’ve built custom URDF/XACRO files, simulated manipulators, and developed trajectory planners to bring robotic systems to life in virtual environments. I also thrive in tech and leadership roles, having helped bring Amalthea back offline, contributed to MetaIITGN, and led outreach initiatives, bridging the gap between academia and industry.
 
-Outside work, I find joy in reading blogs about DSA and Competiev Prgramming, experimenting with Computational Simulations and Numerical Methods, and hitting the gym to build an aesthetic physique!
+Outside work, I find joy in reading blogs about DSA and Competitive Prgramming, experimenting with Computational Simulations and Numerical Methods, and hitting the gym to build an aesthetic physique!
 
 
