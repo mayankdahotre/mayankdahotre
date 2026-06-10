@@ -102,7 +102,6 @@
 - Robotics research and automation systems
 - AI-integrated control applications
 
----
 <!-- 
 
 ### Programming Languages
