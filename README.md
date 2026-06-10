@@ -53,8 +53,6 @@
 
 </div>
 
----
-
 ## 🚀 About Me
 
 - 🎓 Senior Undergraduate at **IIT Gandhinagar**
@@ -65,8 +63,6 @@
 - 📈 Codeforces **Pupil (1309)** 
 - 🌱 Exploring **LLMs, Agentic AI, RAG Systems, Distributed Systems, and MLOps**
 - ⚡ Strong interest in building production-grade AI applications
-
----
 
 ## 💼 Experience
 
@@ -80,8 +76,6 @@
 - Implemented semantic search using Sentence-BERT and vector databases
 - Developed hybrid retrieval systems using FAISS and ChromaDB
 - Created explainable AI fraud detection architectures
-
----
 
 ## 🔥 Featured Projects
 
@@ -170,7 +164,6 @@
 ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
 
 -->
----
 
 ## 📊 Competitive Programming
 
